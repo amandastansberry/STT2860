@@ -1,2 +1,2 @@
 # STT2860
-Projects from RStudio
+My projects from RStudio
